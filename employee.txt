@@ -1,0 +1,6 @@
+{
+  "empID": 5632,
+  "empName": "Rhutuja",
+  "empStatus": "A",
+
+}
